@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevertheless-good&label=Profile%20views&color=0e75b6&style=flat" alt="nevertheless-good" /> </p>
 
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+
+- 📫 How to reach me **nevertheless.good.ok@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/16641430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16641430" height="30" width="40" /></a>
@@ -16,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevertheless-good&show_icons=true&locale=en" alt="nevertheless-good" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nevertheless-good&" alt="nevertheless-good" /></p>
+
