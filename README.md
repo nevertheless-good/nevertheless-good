@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevertheless-good&label=Profile%20views&color=0e75b6&style=flat" alt="nevertheless-good" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
-
 - 📫 How to reach me **nevertheless.good.ok@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
